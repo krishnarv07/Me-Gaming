@@ -1,0 +1,309 @@
+.login-mobile .megaming-logo-011 {
+  border-radius: 14px;
+  background: url('assets/images/MegamingLogo011.png');
+  transform: rotate(-3.357deg);
+  position: absolute;
+  left: -60px;
+  top: -62px;
+  width: 305.9px;
+  height: 170.7px;
+}
+.login-mobile .removebg-preview-11 {
+  filter: blur(2.6px);
+  background: url('assets/images/RemovebgPreview1.png') 50% / cover no-repeat;
+  transform: rotate(-11.19deg);
+  position: absolute;
+  left: -40px;
+  top: 138px;
+  width: 124.8px;
+  height: 116.4px;
+}
+.login-mobile .lets-explore {
+  margin: 0 24px 105px 24px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 100;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.login-mobile .sign-up {
+  margin: 0 3.1px 46px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.login-mobile .name {
+  margin: 0 209.3px 77px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.login-mobile .mobile-number {
+  margin: 0 149.4px 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.login-mobile .enter-your-mobile-number {
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 100;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.85);
+}
+.login-mobile .container-1 {
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 42px;
+  border: 1px solid #000000;
+  background: #FEFCFF;
+  position: relative;
+  margin: 0 2px 13px 2px;
+  align-self: flex-end;
+  padding: 13px 20px 17px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-mobile .email-id {
+  margin: 0 188px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.login-mobile .enter-your-email-address {
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 100;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.89);
+}
+.login-mobile .container {
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 42px;
+  border: 1px solid #000000;
+  background: #FEFCFF;
+  position: relative;
+  margin-bottom: 30px;
+  align-self: flex-end;
+  padding: 14px 13px 16px 13px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-mobile .sign-up-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.login-mobile .group-393 {
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 42px;
+  background: linear-gradient(90deg, rgba(84, 70, 103, 0.329), rgba(167, 139, 205, 0.34));
+  position: relative;
+  margin: 0 0 28px 13px;
+  display: flex;
+  padding: 16px 10.4px 17px 0;
+  width: 215px;
+  box-sizing: border-box;
+}
+.login-mobile .already-have-an-account {
+  margin-right: 11.1px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.login-mobile .sign-in {
+  overflow-wrap: break-word;
+  font-family: 'Nunito';
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration-line: underline;
+  color: #C9720F;
+}
+.login-mobile .group-395 {
+  margin: 0 0 31.5px 9.6px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-mobile .vector-1 {
+  margin: 2.4px 0;
+  width: 15.8px;
+  height: 11.3px;
+}
+.login-mobile .vector {
+  width: 15.8px;
+  height: 16px;
+}
+.login-mobile .vector-2 {
+  margin: 2px 0;
+  width: 11.8px;
+  height: 12px;
+}
+.login-mobile .group-10 {
+  margin-left: 12.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90.6px;
+  box-sizing: border-box;
+}
+.login-mobile .container-4 {
+  border-radius: 58px;
+  border: 1px solid #000000;
+  background: linear-gradient(180deg, rgba(91, 84, 161, 0.49), rgba(91, 84, 161, 0.49)), linear-gradient(#000000, #000000);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 31px 34px 93.5px 34px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-mobile .images-removebg-preview-1 {
+  filter: blur(1.3px);
+  background: url('assets/images/ImagesRemovebgPreview1.png');
+  transform: rotate(21.929deg);
+  position: absolute;
+  top: 25px;
+  right: 0px;
+  width: 144.9px;
+  height: 132.2px;
+}
+.login-mobile .rectangle-1411 {
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 42px;
+  position: absolute;
+  top: 141px;
+  right: 39.9px;
+  width: 280px;
+  height: 46px;
+}
+.login-mobile .enter-your-name {
+  position: absolute;
+  left: 68px;
+  top: 154px;
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 100;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.85);
+}
+.login-mobile .container-3 {
+  position: relative;
+  padding-right: 4.9px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.login-mobile .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 364.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-mobile .world-best-games {
+  position: absolute;
+  left: 44px;
+  top: 84px;
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 100;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.world-best-games-sub18 {
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.world-best-games {
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 1.333;
+  color: #F28D33;
+}
+.login-mobile .removebg-preview-1 {
+  background: url('assets/images/RemovebgPreview11.png') 50% / cover no-repeat;
+  transform: rotate(-20.355deg);
+  position: absolute;
+  right: -10.1px;
+  bottom: 320.1px;
+  width: 144.1px;
+  height: 111.9px;
+}
+.you-can-go-live-effortlessly-with-just-afew-taps-sub4 {
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 1.333;
+}
+.you-can-go-live-effortlessly-with-just-afew-taps-sub2 {
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 100;
+  font-size: 8px;
+  line-height: 1.333;
+}
+.you-can-go-live-effortlessly-with-just-afew-taps {
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #F28D33;
+}
+.login-mobile .you-can-go-live-effortlessly-with-just-afew-taps {
+  position: absolute;
+  left: 24px;
+  top: 115px;
+  overflow-wrap: break-word;
+  font-family: 'Nexa', 'Roboto Condensed';
+  font-weight: 100;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.login-mobile .removebg-preview-2 {
+  filter: blur(2px);
+  background: url('assets/images/RemovebgPreview2.png');
+  position: absolute;
+  left: -29px;
+  bottom: -2px;
+  width: 108px;
+  height: 82px;
+}
+.login-mobile .rectangle-19 {
+  border-radius: 20px;
+  border: 1px solid #626262;
+  background: url('assets/images/Rectangle19.jpeg');
+  position: absolute;
+  top: 45px;
+  right: 35px;
+  width: 80px;
+  height: 80px;
+}
+.login-mobile {
+  background: linear-gradient(180deg, rgba(84, 70, 103, 0.41), rgba(84, 70, 103, 0.41)), linear-gradient(#000000, #000000);
+  display: flex;
+  padding-top: 74px;
+  box-sizing: border-box;
+}

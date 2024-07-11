@@ -1,0 +1,95 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/removebg_preview_11.png
+  - assets/images/images_removebg_preview_1.png
+  - assets/images/rectangle_19.jpeg
+  - assets/images/megaming_logo_011.png
+  - assets/images/removebg_preview_1.png
+  - assets/images/removebg_preview_2.png
+  - assets/vectors/rectangle_141_x2.svg
+  - assets/vectors/vector_30_x2.svg
+  - assets/vectors/vector_15_x2.svg
+  - assets/vectors/vector_19_x2.svg
+  - assets/images/rectangle_19.jpeg
+  - assets/images/rectangle_7.jpeg
+  - assets/images/rectangle_4.jpeg
+  - assets/images/frame_7.jpeg
+  - assets/images/rectangle_8.jpeg
+  - assets/images/rectangle_6.jpeg
+  - assets/images/rectangle_9.png
+  - assets/images/rectangle_5.jpeg
+  - assets/images/rectangle_10.jpeg
+  - assets/vectors/rectangle_51_x2.svg
+  - assets/vectors/rectangle_22_x2.svg
+  - assets/vectors/vector_21_x2.svg
+  - assets/vectors/rectangle_14_x2.svg
+  - assets/vectors/vector_27_x2.svg
+  - assets/vectors/vector_25_x2.svg
+  - assets/vectors/vector_20_x2.svg
+  - assets/vectors/rectangle_71_x2.svg
+  - assets/vectors/rectangle_191_x2.svg
+  - assets/vectors/rectangle_21_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/rectangle_2_x2.svg
+  - assets/vectors/rectangle_61_x2.svg
+  - assets/vectors/rectangle_1_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/rectangle_11_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/rectangle_24_x2.svg
+  - assets/vectors/vector_28_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/rectangle_23_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/rectangle_3_x2.svg
+  - assets/vectors/vector_24_x2.svg
+  - assets/vectors/vector_11_x2.svg
+  - assets/vectors/rectangle_41_x2.svg
+  - assets/vectors/rectangle_81_x2.svg
+  - assets/vectors/vector_17_x2.svg
+  - assets/vectors/vector_22_x2.svg
+  - assets/vectors/rectangle_91_x2.svg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/vector_18_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/images/rectangle_19.jpeg
+  - assets/images/frame_7.jpeg
+  - assets/images/frame_4.jpeg
+  - assets/images/removebg_preview_11.png
+  - assets/images/frame_2.jpeg
+  - assets/vectors/container_1_x2.svg
+  - assets/vectors/vector_23_x2.svg
+  - assets/vectors/vector_29_x2.svg
+  - assets/vectors/vector_26_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/vector_16_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_9_x2.svg
+

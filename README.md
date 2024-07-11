@@ -1,0 +1,2 @@
+# Megaming
+ Megaming is a premier online mobile streaming platform designed specifically for gamers. With Megaming, you can stream your gameplay live, connect with fellow gamers, and grow your audience all from the convenience of your mobile device. Whether you're into action-packed shooters, strategy games, or the latest indie hits, Megaming provides a seamless and engaging streaming experience. Join our vibrant community, share your gaming skills, and become a part of the next generation of mobile gaming entertainment. Stream, play, and win with Megaming!

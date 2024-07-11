@@ -1,0 +1,14 @@
+<svg width="204" height="70" viewBox="0 0 204 70" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter8_40)">
+<path d="M0,35C0,15.67 15.67,0 35,0L169,0C188.33,0 204,15.67 204,35L204,35C204,54.33 188.33,70 169,70L35,70C15.67,70 0,54.33 0,35L0,35Z" fill="#E7C3DD" stroke="#000000" stroke-width="1" stroke-miterlimit="3.999327"/>
+<path d="M0,35C0,15.67 15.67,0 35,0L169,0C188.33,0 204,15.67 204,35L204,35C204,54.33 188.33,70 169,70L35,70C15.67,70 0,54.33 0,35L0,35Z" fill="#E7C3DD" stroke="#000000" stroke-width="1" stroke-miterlimit="3.999327"/>
+<path d="M0,35C0,15.67 15.67,0 35,0L169,0C188.33,0 204,15.67 204,35L204,35C204,54.33 188.33,70 169,70L35,70C15.67,70 0,54.33 0,35L0,35Z" fill="#E7C3DD" stroke="#000000" stroke-width="1" stroke-miterlimit="3.999327"/>
+</g>
+<defs>
+<filter id="filter8_40" x="-100" y="-100" width="302" height="235" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="0foregroundblur"/>
+</filter>
+</defs>
+</svg>
